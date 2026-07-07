@@ -108,8 +108,8 @@ global-temperature-analysis-prediction/
 
 ---
 
- Author
+ Project Visualizations
 
-**Swati Singh**
+### Correlation Heatmap
 
-Aspiring Data Analyst | Python | SQL | Excel | Machine Learning
+![Correlation Heatmap](images/correlation_heatmap.png)
